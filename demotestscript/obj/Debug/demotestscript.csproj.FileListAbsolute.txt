@@ -1,0 +1,6 @@
+D:\VS Projects\demotestscript\demotestscript\obj\Debug\demotestscript.csprojResolveAssemblyReference.cache
+D:\VS Projects\demotestscript\demotestscript\obj\Debug\demotestscript.csproj.CoreCompileInputs.cache
+D:\VS Projects\demotestscript\demotestscript\bin\Debug\demotestscript.dll
+D:\VS Projects\demotestscript\demotestscript\bin\Debug\demotestscript.pdb
+D:\VS Projects\demotestscript\demotestscript\obj\Debug\demotestscript.dll
+D:\VS Projects\demotestscript\demotestscript\obj\Debug\demotestscript.pdb
